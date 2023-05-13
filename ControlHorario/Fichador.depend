@@ -1,0 +1,377 @@
+# depslib dependency file v1.0
+1654802429 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1654802429 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\fecha.h
+	<ctime>
+	<time.h>
+	<string>
+	<cstring>
+
+1654640026 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\administrador.cpp
+	<iostream>
+	<cstring>
+	"administrador.h"
+
+1654802429 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\administrador.h
+
+1654802428 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"rlutil.h"
+	"fecha.h"
+	"Empleados.h"
+	"administrador.h"
+	"FUNCIONES.h"
+
+1654104409 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1654805611 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\empleados.h
+	<string>
+	<cstring>
+	"fecha.h"
+
+1654802429 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\funciones.h
+
+1654805946 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\empleados.cpp
+	<cstring>
+	<iostream>
+	"Empleados.h"
+	"fecha.h"
+
+1654724169 D
+
+1655172274 source:c:\users\escal\documents\labo 2\proyecto\laboratorio_2\administrador.cpp
+	<iostream>
+	<cstring>
+	"FUNCIONES.h"
+	"rlutil.h"
+	"administrador.h"
+	"Empleados.h"
+
+1655170442 c:\users\escal\documents\labo 2\proyecto\laboratorio_2\administrador.h
+
+1655170912 source:c:\users\escal\documents\labo 2\proyecto\laboratorio_2\empleados.cpp
+
+1666788894 source:c:\users\mapu\desktop\utn\laboratorio\controlhorario\administrador.cpp
+	<iostream>
+	<string>
+	"FUNCIONES.h"
+	"rlutil.h"
+	"administrador.h"
+	"Empleados.h"
+
+1658325020 c:\users\mapu\desktop\utn\laboratorio\controlhorario\administrador.h
+
+1666915288 source:c:\users\mapu\desktop\utn\laboratorio\controlhorario\empleados.cpp
+	<cstring>
+	<iostream>
+	"Empleados.h"
+	"fecha.h"
+	"jornada.h"
+	"FUNCIONES.h"
+	"rlutil.h"
+	"calendario.h"
+	<iomanip>
+
+1654874216 af8b (error en archivo depend)
+	<cstring>
+	<iostream>
+	"Empleados.h"
+	"fecha.h"
+	<string>
+	<cstring>
+	"fecha.h"
+	<ctime>
+	<time.h>
+	<string>
+	<cstring>
+	<iostream>
+	<string>
+	<cstdlib>
+	"rlutil.h"
+	"fecha.h"
+	"Empleados.h"
+	"administrador.h"
+	"FUNCIONES.h"
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655171511 c:\users\escal\documents\labo 2\proyecto\laboratorio_2\empleados.h
+
+1661199677 c:\users\mapu\desktop\utn\laboratorio\controlhorario\empleados.h
+	<string>
+	<cstring>
+	"fecha.h"
+
+1654813432 c:\users\escal\documents\labo 2\proyecto\laboratorio_2\fecha.h
+
+1656602395 c:\users\mapu\desktop\utn\laboratorio\controlhorario\fecha.h
+	<ctime>
+	<time.h>
+	<string>
+	<cstring>
+
+1654813432 source:c:\users\escal\documents\labo 2\proyecto\laboratorio_2\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1655172417 source:c:\users\escal\documents\labo 2\proyecto\laboratorio_2\main.cpp
+
+1662247298 source:c:\users\mapu\desktop\utn\laboratorio\controlhorario\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1658928268 source:c:\users\mapu\desktop\utn\laboratorio\controlhorario\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"rlutil.h"
+	"fecha.h"
+	"Empleados.h"
+	"administrador.h"
+	"FUNCIONES.h"
+	"jornada.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1654365686 c:\users\escal\documents\labo 2\proyecto\laboratorio_2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655171511 c:\users\escal\documents\labo 2\proyecto\laboratorio_2\funciones.h
+
+1655161413 source:c:\users\escal\documents\labo 2\proyecto\laboratorio_2\jornada.cpp
+	"jornada.h"
+	"Empleados.h"
+
+1655161397 c:\users\escal\documents\labo 2\proyecto\laboratorio_2\jornada.h
+	<string>
+	<cstring>
+	"fecha.h"
+	"Empleados.h"
+
+1655172404 source:c:\users\escal\documents\labo 2\proyecto\laboratorio_2\funciones.cpp
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"administrador.h"
+	"FUNCIONES.h"
+	"Reportes.h"
+
+1655172537 c:\users\escal\documents\labo 2\proyecto\laboratorio_2\reportes.h
+
+1655172537 c:\users\escal\documents\labo 2\proyecto\laboratorio_2\include\reportes.h
+
+1655325854 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\administrador.cpp
+	<iostream>
+	<cstring>
+	"FUNCIONES.h"
+	"rlutil.h"
+	"administrador.h"
+	"Empleados.h"
+
+1655325854 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\funciones.h
+
+1654104409 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\rlutil.h
+
+1654724169 c:\users\mapu\desktop\utn\laboratorio\controlhorario\rlutil.h
+
+1655325854 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\administrador.h
+
+1655325854 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\empleados.h
+	<string>
+	<cstring>
+	"fecha.h"
+
+1654802429 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\fecha.h
+	<ctime>
+	<time.h>
+	<string>
+	<cstring>
+
+1655325854 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\empleados.cpp
+	<cstring>
+	<iostream>
+	"Empleados.h"
+	"fecha.h"
+
+1654802429 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1655325854 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\funciones.cpp
+	<cstring>
+	<iostream>
+	"rlutil.h"
+	"administrador.h"
+	"FUNCIONES.h"
+	"Reportes.h"
+
+1655325854 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\include\reportes.h
+
+1655325854 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\jornada.cpp
+	"jornada.h"
+	"Empleados.h"
+
+1655325854 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\jornada.h
+	<string>
+	<cstring>
+	"fecha.h"
+	"Empleados.h"
+
+1655325854 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"rlutil.h"
+	"fecha.h"
+	"Empleados.h"
+	"administrador.h"
+	"FUNCIONES.h"
+
+1655325854 source:d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\src\reportes.cpp
+	<iostream>
+	"Reportes.h"
+	"../administrador.h"
+	"rlutil.h"
+
+1655325854 d:\estudios\utn\i) cuatrimestre 5\laboratorio 2\entrega de proyecto parcial\fichador\laboratorio_2\src\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655325854 h>
+
+1658433051 c:\users\mapu\desktop\utn\laboratorio\controlhorario\funciones.h
+	<string>
+	<cstring>
+
+1666832359 source:c:\users\mapu\desktop\utn\laboratorio\controlhorario\funciones.cpp
+	<cstring>
+	<string>
+	<iostream>
+	"rlutil.h"
+	"administrador.h"
+	"FUNCIONES.h"
+	"Reportes.h"
+	"Empleados.h"
+	"jornada.h"
+	"fecha.h"
+	"calendario.h"
+	<iomanip>
+
+1655387565 c:\users\mapu\desktop\utn\laboratorio\controlhorario\include\reportes.h
+
+1662247980 source:c:\users\mapu\desktop\utn\laboratorio\controlhorario\jornada.cpp
+	"jornada.h"
+	"Empleados.h"
+	<cstring>
+	<string>
+	"FUNCIONES.h"
+	"rlutil.h"
+	<iostream>
+
+1658347271 c:\users\mapu\desktop\utn\laboratorio\controlhorario\jornada.h
+	<string>
+	<cstring>
+	"fecha.h"
+	"Empleados.h"
+
+1666915638 source:c:\users\mapu\desktop\utn\laboratorio\controlhorario\src\reportes.cpp
+	<iostream>
+	"Reportes.h"
+	"../administrador.h"
+	"rlutil.h"
+	"../FUNCIONES.h"
+
+1655387565 c:\users\mapu\desktop\utn\laboratorio\controlhorario\src\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1666915821 source:c:\users\mapu\desktop\utn\laboratorio\controlhorario\calendario.cpp
+	"calendario.h"
+	"Empleados.h"
+	<cstring>
+	<string>
+	"FUNCIONES.h"
+	"rlutil.h"
+	"fecha.h"
+	"franco.h"
+	"jornada.h"
+	<iomanip>
+	<iostream>
+
+1657739009 c:\users\mapu\desktop\utn\laboratorio\controlhorario\calendario.h
+	<string>
+	<cstring>
+	"fecha.h"
+	"Empleados.h"
+
+1657116822 source:c:\users\mapu\desktop\utn\laboratorio\controlhorario\franco.cpp
+	"franco.h"
+	"calendario.h"
+	"FUNCIONES.h"
+	"rlutil.h"
+	<iostream>
+
+1657114001 c:\users\mapu\desktop\utn\laboratorio\controlhorario\franco.h
+	<string>
+	<cstring>
+	"fecha.h"
+	"Empleados.h"
+
